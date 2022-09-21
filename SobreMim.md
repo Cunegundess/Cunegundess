@@ -2,7 +2,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e testando novas ideias.
 - 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** no <a href="https://etep.edu.br/">Centro Universitário ETEP</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **Html, Css e JavaScript**.
+- 📚 &nbsp; Aprendendo mais sobre **Html, Css e JavaScript**.
 
 <br>
 
