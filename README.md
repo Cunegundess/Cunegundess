@@ -25,16 +25,8 @@ object **LUCAS** {
  - Redes Sociais:
 </p>
 
-
-<p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=lucascsantana6@gmail.com" /></a>
-
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-cunegundes/" /></a>
-
-  <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/cunegundez_/"/></a>
-</p> 
+[![Linkedin: Lucas Cunegundes](https://img.shields.io/badge/-Lucas_Cunegundes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-cunegundes/)](https://www.linkedin.com/in/lucas-cunegundes/)
+[![Gmail Badge](https://img.shields.io/badge/-lucascsantana6@gmail.com-b70106?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucascsantana6@gmail.com)](mailto:lucascsantana6@gmail.com)
+[![Instagram: cunegundez_](https://img.shields.io/badge/-cunegundez_-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/cunegundez_/)](https://www.instagram.com/cunegundez_/)
 
 
