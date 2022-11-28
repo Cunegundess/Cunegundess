@@ -12,8 +12,9 @@
 
 ```Python
 def Lucas():
+
  nome = "LUCAS CUNEGUNDES DE SANTANA"
- conhecimentos = "PROGRAMAÇÃO"
+ estudo = "PROGRAMAÇÃO / DESENVOLVIMENTO"
  
  habilidades = "ALGUMAS HABILIDADES"
  tecnologias = ["HTML", "CSS", "Python"] 
