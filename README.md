@@ -10,14 +10,14 @@
 
 <!-- <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" /> -->
 
-```kotlin
-object **LUCAS** {
- val name = "LUCAS CUNEGUNDES DE SANTANA"
- val acknowledgements = "PROGRAMAÇÃO"
+```
+def LUCAS:
+ nome = "LUCAS CUNEGUNDES DE SANTANA"
+ conhecimentos = "PROGRAMAÇÃO"
  
- val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("HTML", "CSS", "Python") 
-}
+ habilidades = "ALGUMAS HABILIDADES"
+ tecnologias = ["HTML", "CSS", "Python"] 
+ 
 ```
 <br>
 
