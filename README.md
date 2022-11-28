@@ -28,6 +28,6 @@ def Lucas():
 
 [![Linkedin: Lucas Cunegundes](https://img.shields.io/badge/-Lucas_Cunegundes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-cunegundes/)](https://www.linkedin.com/in/lucas-cunegundes/)
 [![Gmail Badge](https://img.shields.io/badge/-lucascsantana6@gmail.com-b70106?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucascsantana6@gmail.com)](mailto:lucascsantana6@gmail.com)
-[![Instagram: cunegundez_](https://img.shields.io/badge/-cunegundez_-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/cunegundez_/)](https://www.instagram.com/cunegundez_/)
+<!-- [![Instagram: cunegundez_](https://img.shields.io/badge/-cunegundez_-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/cunegundez_/)](https://www.instagram.com/cunegundez_/) -->
 
 
