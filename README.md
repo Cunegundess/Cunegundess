@@ -17,7 +17,7 @@ def Lucas():
  estudo = "PROGRAMAÇÃO / DESENVOLVIMENTO"
  
  habilidades = "ALGUMAS HABILIDADES"
- tecnologias = ["HTML", "CSS", "Python"] 
+ tecnologias = ["HTML", "CSS", "JavaScript", "Python"] 
  
 ```
 <br>
