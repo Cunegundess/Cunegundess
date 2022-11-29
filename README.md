@@ -23,7 +23,7 @@ def Lucas():
 <br>
 
 <!-- - --> <p align="left">
- - Redes Sociais:
+ - Contato:
 </p>
 
 [![Linkedin: Lucas Cunegundes](https://img.shields.io/badge/-Lucas_Cunegundes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-cunegundes/)](https://www.linkedin.com/in/lucas-cunegundes/)
