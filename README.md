@@ -2,7 +2,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e testando novas ideias.
 - 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** no <a href="https://etep.edu.br/">Centro Universitário ETEP</a>.
-- 📚 &nbsp; Aprendendo mais sobre **Python**.
+- 📚 &nbsp; Aprendendo mais sobre **Programação**.
 
 <br>
 
@@ -12,14 +12,30 @@
 
 ```Python
 def Lucas():
-
- nome = "LUCAS CUNEGUNDES DE SANTANA"
- estudo = "PROGRAMAÇÃO / DESENVOLVIMENTO"
- 
- habilidades = "ALGUMAS HABILIDADES"
- tecnologias = ["HTML", "CSS", "JavaScript", "Python"] 
+ nome = "Lucas Cunegundes de Santana"
+ estudando = 'PROGRAMAÇÃO'
+ tecnologias = {
+  Web: ["HTML", "CSS", "JavaScript"],
+  BackEnd: ["JavaScript", "Python"],
+  Bibliotecas: ["React", "Node"]  # Estudando atualmente
+  }
  
 ```
+<br>
+
+```JavaScript
+function lucasCunegundes() {
+ const nome = 'Lucas Cunegundes de Santana';
+ const estudando = 'PROGRAMAÇÃO'
+ let tecnologias = {
+  Web: ["HTML", "CSS", "JavaScript"],
+  BackEnd: ["JavaScript", "Python"],
+  Bibliotecas: ["React", "Node"]  // Estudando atualmente
+  }
+}
+
+```
+
 <br>
 
 <!-- - --> <p align="left">
