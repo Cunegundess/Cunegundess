@@ -1,4 +1,8 @@
-### <h3> 👨‍🦱: &nbsp;Sobre mim </h3>
+<div align="center">
+    <img src="./greetings.gif" align="center" height="" width="500" />
+</div>
+
+### <h3> 👨‍🦱 &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e testando novas ideias.
 - 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** no <a href="https://etep.edu.br/">Centro Universitário ETEP</a>.
@@ -6,22 +10,15 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" height = "250px"  align="right" alt="Computador"> 
+<div align="center">
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" />
+</div>
 
-<!-- <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" /> -->
-
-```Python
-def Lucas():
- nome = "Lucas Cunegundes de Santana"
- estudando = 'PROGRAMAÇÃO'
- tecnologias = {
-  Web: ["HTML", "CSS", "JavaScript"],
-  BackEnd: ["JavaScript", "Python"],
-  Bibliotecas: ["React", "Node"]  # Estudando atualmente
-  }
- 
-```
-<br>
+<!-- <a href="https://github.com/anuraghazra/convoychat">
+  <img align="center"  min-width="400px" max-width="400px" width="400px" height = "250px"  align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
+</a>  -->
+<br/>
 
 ```JavaScript
 function lucasCunegundes() {
@@ -35,12 +32,19 @@ function lucasCunegundes() {
 }
 
 ```
+<br/>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img position="center" src="https://streak-stats.demolab.com?user=Cunegundess&theme=transparent&date_format=j%20M%5B%20Y%5D" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img position="center" src="https://github-readme-stats.vercel.app/api?username=Cunegundess&show_icons=true&theme=transparent" />
+</a>
 
 <br>
-
-<!-- - --> <p align="left">
- - Contato:
-</p>
+<h3 align="left">
+📲 Contato
+</h3>
 
 [![Linkedin: Lucas Cunegundes](https://img.shields.io/badge/-Lucas_Cunegundes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-cunegundes/)](https://www.linkedin.com/in/lucas-cunegundes/)
 [![Gmail Badge](https://img.shields.io/badge/-lucascsantana6@gmail.com-b70106?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucascsantana6@gmail.com)](mailto:lucascsantana6@gmail.com)
