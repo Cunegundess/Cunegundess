@@ -66,7 +66,7 @@ class LucasCunegundes {
   );
   
   console.log(eu.sobreMim()); // Saída: Olá! Meu nome é Lucas Cunegundes 😎
-  console.log(eu.lifeStyle()); // Saída: No momento, estou Codando.
+  console.log(eu.lifeStyle()); // Saída: No momento, estou Codando, Treinando ou Dormindo.
   console.log(eu.myStack()); // Saída: Minha stack de tecnologias inclui: HTML, CSS, JavaScript, Python
   console.log(eu.currentProject()); // Saída: Atualmente estou focado em aprimorar minhas habilidades e buscar novas oportunidades.
 
