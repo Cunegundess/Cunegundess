@@ -21,25 +21,73 @@
 <br/>
 
 ```JavaScript
-function lucasCunegundes() {
- const nome = 'Lucas Cunegundes de Santana';
- const estudando = 'PROGRAMAÇÃO'
- let tecnologias = {
-  Web: ["HTML", "CSS", "JavaScript"],
-  BackEnd: ["JavaScript", "Python"],
-  Bibliotecas: ["React", "Node"]  // Estudando atualmente
+class LucasCunegundes {
+    constructor(nome, estudando, tecnologias, objetivo) {
+      this.meuNome = nome;
+      this.estouEstudando = estudando;
+      this.minhaStack = tecnologias;
+      this.objetivoAtual = objetivo;
+    }
+  
+    sobreMim() {
+      return `Olá! Meu nome é ${this.meuNome} 😎`;
+    }
+  
+    lifeStyle() {
+      const horaAtual = new Date().getHours();
+      let atividade;
+ 
+      if (horaAtual >= 6 && horaAtual < 12) {
+        atividade = 'Codando 👨‍💻';
+      } else if (horaAtual >= 14 && horaAtual < 18) {
+        atividade = 'Puxando ferro 💪';
+      } else {
+        atividade = 'Dormindo 😴';
+      }
+
+      return `No momento, estou ${atividade}.`;
+    }
+  
+    myStack() {
+      return `Minha stack de tecnologias inclui: ${this.minhaStack.join(", ")}.`;
+    }
+  
+    currentProject() {
+      return `Atualmente estou focado em ${this.objetivoAtual}`;
+    }
   }
-}
+  
+
+  const eu = new LucasCunegundes(
+    'Lucas Cunegundes de Santana',
+    'PROGRAMAÇÃO',
+    ['HTML', 'CSS', 'JavaScript', 'Python'],
+    'aprimorar minhas habilidades e buscar novas oportunidades.'
+  );
+  
+  console.log(eu.sobreMim()); // Saída: Olá! Meu nome é Lucas Cunegundes de Santana 😎
+  console.log(eu.lifeStyle()); // Saída: No momento, estou Codando.
+  console.log(eu.myStack()); // Saída: Minha stack de tecnologias inclui: HTML, CSS, JavaScript, Python
+  console.log(eu.currentProject()); // Saída: Atualmente estou focado em aprimorar minhas habilidades e buscar novas oportunidades.
 
 ```
 <br/>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img position="center" src="https://streak-stats.demolab.com?user=Cunegundess&theme=transparent&date_format=j%20M%5B%20Y%5D" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+</a> -->
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img position="center" src="https://github-readme-stats.vercel.app/api?username=Cunegundess&show_icons=true&theme=transparent" />
-</a>
+</a> -->
+<p align="center">
+  <a href="https://github.com/Cunegundess">
+    <img align="center"  height="175px" src="https://github-readme-stats.vercel.app/api?username=Cunegundess&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+  </a>
+  <a href="https://github.com/Ratheshan03">
+    <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cunegundess&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+  </a>
+</p>
+  <p align="center"><img align="center" src="https://streak-stats.demolab.com?user=Cunegundess&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Cunegundess" /></p>
 
 <br>
 <h3 align="left">
