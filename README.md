@@ -80,14 +80,18 @@ class LucasCunegundes {
   <img position="center" src="https://github-readme-stats.vercel.app/api?username=Cunegundess&show_icons=true&theme=transparent" />
 </a> -->
 <p align="center">
-  <a href="https://github.com/Cunegundess">
     <img align="center"  height="175px" src="https://github-readme-stats.vercel.app/api?username=Cunegundess&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-  </a>
-  <a href="https://github.com/Ratheshan03">
     <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cunegundess&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-  </a>
 </p>
-  <p align="center"><img align="center" src="https://streak-stats.demolab.com?user=Cunegundess&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Cunegundess" /></p>
+ <p align="center">
+    <img align="center" height="175px" src="https://streak-stats.demolab.com?user=Cunegundess&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Cunegundess" />
+ </p>
+ <br>
+ <p align="center">
+    <img align="center" height="175px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cunegundess&theme=midnight_purple" alt="Cunegundess Contribuitions"/>
+<!--     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Cunegundess&custom_title=Lucas%Cunegundes%20GitHub%20Activity%20Graph&bg_color=000000&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=94b4a4&area=true"> -->
+</p>
+
 
 <br>
 <h3 align="left">
