@@ -59,13 +59,13 @@ class LucasCunegundes {
   
 
   const eu = new LucasCunegundes(
-    'Lucas Cunegundes de Santana',
+    'Lucas Cunegundes',
     'PROGRAMAÇÃO',
     ['HTML', 'CSS', 'JavaScript', 'Python'],
     'aprimorar minhas habilidades e buscar novas oportunidades.'
   );
   
-  console.log(eu.sobreMim()); // Saída: Olá! Meu nome é Lucas Cunegundes de Santana 😎
+  console.log(eu.sobreMim()); // Saída: Olá! Meu nome é Lucas Cunegundes 😎
   console.log(eu.lifeStyle()); // Saída: No momento, estou Codando.
   console.log(eu.myStack()); // Saída: Minha stack de tecnologias inclui: HTML, CSS, JavaScript, Python
   console.log(eu.currentProject()); // Saída: Atualmente estou focado em aprimorar minhas habilidades e buscar novas oportunidades.
