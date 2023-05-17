@@ -87,10 +87,10 @@ class LucasCunegundes {
     <img align="center" height="175px" src="https://streak-stats.demolab.com?user=Cunegundess&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Cunegundess" />
  </p>
  <br>
- <p align="center">
+<!--  <p align="center">
     <img align="center" height="175px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cunegundess&theme=midnight_purple" alt="Cunegundess Contribuitions"/>
-<!--     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Cunegundess&custom_title=Lucas%Cunegundes%20GitHub%20Activity%20Graph&bg_color=000000&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=94b4a4&area=true"> -->
-</p>
+      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Cunegundess&custom_title=Lucas%Cunegundes%20GitHub%20Activity%20Graph&bg_color=000000&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=94b4a4&area=true">
+</p> -->
 
 
 <br>
