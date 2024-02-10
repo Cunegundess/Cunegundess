@@ -2,7 +2,7 @@
     <img src="./greetings.gif" align="center" height="" width="500" />
 </div>
 
-### <h3> 👨‍🦱 &nbsp;Sobre mim </h3>
+### <h2> 👨‍🦱 &nbsp;Sobre mim </h2>
 
 - 🤔 &nbsp; Explorando novas tecnologias e testando novas ideias.
 - 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** no <a href="https://etep.edu.br/">Centro Universitário ETEP</a>.
@@ -10,13 +10,9 @@
 
 <br/>
 
-
-
-
-
 <div align="center">
-    <a href="https://lucascunegundesportfolio.netlify.app/">
-        <img alt="Portifolio" src="https://img.shields.io/badge/-Portifolio-00C7B7?style=flat-square&logo=netlify&logoColor=white&link=https://lucascunegundesportfolio.netlify.app/" />
+    <a href="https://lucascunegundesportfolio.netlify.app/" >
+        <img alt="Portifolio" src="https://img.shields.io/badge/-Portifolio-14b8a6?style=flat-square&logo=netlify&logoColor=white&link=https://lucascunegundesportfolio.netlify.app/" />
     </a>
     <a href="https://www.linkedin.com/in/lucas-cunegundes/">
         <img alt="Linkedin Cunegundes" src="https://img.shields.io/badge/-Lucas_Cunegundes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-cunegundes/" />
