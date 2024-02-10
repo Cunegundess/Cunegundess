@@ -10,5 +10,18 @@
 
 <br/>
 
-[![Linkedin: Lucas Cunegundes](https://img.shields.io/badge/-Lucas_Cunegundes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-cunegundes/)](https://www.linkedin.com/in/lucas-cunegundes/)
-[![Gmail Badge](https://img.shields.io/badge/-lucascsantana6@gmail.com-b70106?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucascsantana6@gmail.com)](mailto:lucascsantana6@gmail.com)
+
+
+
+
+<div align="center">
+    <a href="https://lucascunegundesportfolio.netlify.app/">
+        <img alt="Portifolio" src="https://img.shields.io/badge/-Portifolio-00C7B7?style=flat-square&logo=netlify&logoColor=white&link=https://lucascunegundesportfolio.netlify.app/" />
+    </a>
+    <a href="https://www.linkedin.com/in/lucas-cunegundes/">
+        <img alt="Linkedin Cunegundes" src="https://img.shields.io/badge/-Lucas_Cunegundes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-cunegundes/" />
+    </a>
+    <a href="mailto:lucascsantana6@gmail.com">
+        <img alt="Gmail Cunegundes" src="https://img.shields.io/badge/-lucascsantana6@gmail.com-b70106?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucascsantana6@gmail.com" />
+    </a>
+</div>
