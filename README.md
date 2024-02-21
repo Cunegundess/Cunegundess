@@ -2,12 +2,11 @@
     <img src="./greetings.gif" align="center" height="" width="500" />
 </div>
 
-### <h3> Sobre mim </h3>
-
-- 👋🏻 Olá! Sou um Desenvolvedor Full Stack se especializando em desenvolvimento frontend.
-- 🤔 Explorando novas tecnologias.
-- 🎓 Graduando em **Análise e Desenvolvimento de Sistemas** no <a href="https://etep.edu.br/">Centro Universitário ETEP</a>.
-- 📚 Aprendendo mais sobre **Programação**.
+## About Me
+- 👋🏻 Hello! I'm a Full Stack Developer specializing in frontend development.
+- 🤔 Exploring new technologies.
+- 🎓 Currently pursuing a degree in Analysis and Systems Development at <a href="https://etep.edu.br/">ETEP University Center</a>.
+- 📚 Learning more about Programming.
 
 <br/>
 
