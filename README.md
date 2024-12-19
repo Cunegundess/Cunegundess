@@ -5,8 +5,7 @@
 ## About Me
 - 👋🏻 Hello! I'm a Full Stack Software Developer.
 - 🤔 Exploring new technologies.
-- 🎓 Currently pursuing a degree in Analysis and Systems Development at <a href="https://etep.edu.br/">ETEP University Center</a>.
-- 📚 Learning more about Programming.
+- 📚 Learning more about Software Development.
 
 <br/>
 
